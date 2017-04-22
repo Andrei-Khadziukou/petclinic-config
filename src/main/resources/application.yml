@@ -21,3 +21,6 @@ spring.cloud.config.server.git:
   cloneOnStart: true
   force-pull: true
 
+security.user:
+  name: test-user
+  password: test-password
